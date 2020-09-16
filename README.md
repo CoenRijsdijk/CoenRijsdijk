@@ -12,9 +12,9 @@
 </p> 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/coen-rijsdijk-551520128/" target="blank"><img align="center" src="https://img.icons8.com/fluent/36/000000/linkedin.png" alt="coenlinkedin"/></a>
-  <a href="https://www.instagram.com/coenrijsdijk/" target="blank"><img align="center" src="https://img.icons8.com/fluent/36/000000/instagram-new.png" alt="coeninsta"/></a>
-  <a href="https://twitter.com/RijsdijkCoen" target="blank"><img align="center" src="https://img.icons8.com/color/36/000000/twitter.png" alt="coentwitter"/></a>
-  <a href="https://www.facebook.com/rijsdijk.coen/" target="blank"><img align="center" src="https://img.icons8.com/color/36/000000/facebook.png" alt="coenfaceboook"/></a>
-  <a href="https://gitlab.com/CoenRijsdijk" target="blank"><img align="center" src="https://img.icons8.com/color/36/000000/gitlab.png" alt="coengitlab"/></a>
+  <a href="https://www.linkedin.com/in/coen-rijsdijk-551520128/" target="_blank"><img align="center" src="https://img.icons8.com/fluent/36/000000/linkedin.png" alt="coenlinkedin"/></a>
+  <a href="https://www.instagram.com/coenrijsdijk/" target="_blank"><img align="center" src="https://img.icons8.com/fluent/36/000000/instagram-new.png" alt="coeninsta"/></a>
+  <a href="https://twitter.com/RijsdijkCoen" target="_blank"><img align="center" src="https://img.icons8.com/color/36/000000/twitter.png" alt="coentwitter"/></a>
+  <a href="https://www.facebook.com/rijsdijk.coen/" target="_blank"><img align="center" src="https://img.icons8.com/color/36/000000/facebook.png" alt="coenfaceboook"/></a>
+  <a href="https://gitlab.com/CoenRijsdijk" target="_blank"><img align="center" src="https://img.icons8.com/color/36/000000/gitlab.png" alt="coengitlab"/></a>
 </p>
