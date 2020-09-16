@@ -12,9 +12,9 @@
 </p> 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/coen-rijsdijk-551520128/" target="_blank"><img align="center" src="https://img.icons8.com/fluent/36/000000/linkedin.png" alt="coenlinkedin"/></a>
-  <a href="https://www.instagram.com/coenrijsdijk/" target="_blank"><img align="center" src="https://img.icons8.com/fluent/36/000000/instagram-new.png" alt="coeninsta"/></a>
-  <a href="https://twitter.com/RijsdijkCoen" target="_blank"><img align="center" src="https://img.icons8.com/color/36/000000/twitter.png" alt="coentwitter"/></a>
-  <a href="https://www.facebook.com/rijsdijk.coen/" target="_blank"><img align="center" src="https://img.icons8.com/color/36/000000/facebook.png" alt="coenfaceboook"/></a>
-  <a href="https://gitlab.com/CoenRijsdijk" target="_blank"><img align="center" src="https://img.icons8.com/color/36/000000/gitlab.png" alt="coengitlab"/></a>
+  <a href="https://www.linkedin.com/in/coen-rijsdijk-551520128/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="coenlinkedin"/></a>
+  <a href="https://www.instagram.com/coenrijsdijk/" target="_blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="coeninsta"/></a>
+  <a href="https://twitter.com/RijsdijkCoen" target="_blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="coentwitter"/></a>
+  <a href="https://www.facebook.com/rijsdijk.coen/" target="_blank"><img align="center" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="coenfaceboook"/></a>
+  <a href="https://gitlab.com/CoenRijsdijk" target="_blank"><img align="center" src="https://img.shields.io/badge/gitlab-%23404d59.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="coengitlab"/></a>
 </p>
