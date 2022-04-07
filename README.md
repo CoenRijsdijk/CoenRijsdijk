@@ -3,7 +3,7 @@
   <h4 align="center">Computer science student || Avans University of Applied Science || Breda, The Netherlands</h4>
 </p>
 
-- 🔭 I am currently working on the minor programming in C++
+- 🔭 I am currently in the 4th and final year of my computer science studies
 
 - 📫 How to reach me: [coenrijsdijk@gmail.com](mailto:coenrijsdijk@gmail.com)
 
