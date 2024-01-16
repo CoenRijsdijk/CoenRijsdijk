@@ -1,9 +1,9 @@
 <p align="center">
   <h1 align="center">Hi there 👋, I'm Coen ©️</h1>
-  <h4 align="center">Computer science student || Avans University of Applied Science || Breda, The Netherlands</h4>
+  <h4 align="center">Back-end developer || The Netherlands</h4>
 </p>
 
-- 🔭 I am currently in the 4th and final year of my computer science studies
+- 🎓 Successfully graduated from Avans University of Applied Sciences in January 2024
 
 - 📫 How to reach me: [coenrijsdijk@gmail.com](mailto:coenrijsdijk@gmail.com)
 
